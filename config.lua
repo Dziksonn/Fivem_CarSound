@@ -1,0 +1,3 @@
+dzwieki = {
+    ["Adder"]="lock",
+}
